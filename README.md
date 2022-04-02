@@ -1,6 +1,7 @@
 # My educational Data Science projects 
 
 This repository includes projects that I completed during my training at the Yandex.Practicum.
+
 All of them are .ipynb files.
 
 | Project Name | Description | Used Libraries |
