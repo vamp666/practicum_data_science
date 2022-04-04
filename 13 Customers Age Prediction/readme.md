@@ -7,6 +7,7 @@ Build a model that will determine the approximate age of a person from a photogr
 A chain supermarket introduces a computer vision system to process customer photos. Photo fixation in the checkout area will help determine the age of customers in order to:
 * Analyze purchases and offer products that may be of interest to buyers of this age group;
 * Control the conscientiousness of cashiers when selling alcohol.
+
 A model has been built that will determine the approximate age of a person from a photograph.
 A set of photographs of people with age indication was analyzed using computer vision using ready-made neural networks and the Keras library.
 
