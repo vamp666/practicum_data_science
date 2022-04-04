@@ -10,7 +10,7 @@ In order to optimize production costs, the metallurgical plant So Hardening Stee
 * The target feature was defined and some features were created, which were then effectively used in training the model.
 * Dataframes provided have been merged by batch number `key`
 * Next, I embarked on an exploratory data analysis, during which:
-* Removed most notable outliers
+    * Removed most notable outliers
     * Estimated results of temperature measurements over time
     * Checked for multicollinearity
     * Estimated data distributions on the cross-correlation graph
