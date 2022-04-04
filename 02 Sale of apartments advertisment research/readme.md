@@ -19,3 +19,16 @@ Histograms, boxplots, scatterplots are constructed.
 * Startups
 * IT company
 
+## Skills
+
+* Python
+* pandas
+* matplotlib
+* exploratory data analysis
+* data visualization
+* data preprocessing
+* math
+
+## Tags
+
+data processing, histogram, boxplot, scattermatrix, categorization, scatterplot, marketing analyst, fraud analyst, fraud analyst, data analyst, data analyst, analyst, fraud monitoring
