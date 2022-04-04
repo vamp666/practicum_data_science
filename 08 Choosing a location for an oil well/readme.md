@@ -17,7 +17,7 @@ A model has been built to determine the region where mining will bring the great
 * Services for business [b2b] (outsourcing consulting audit)
 * IT company
 * Startups
-* Branch companies / Industry / Industry
+* Branch companies / Industry 
 
 ## Skills
 
