@@ -11,7 +11,7 @@ real estate objects of different types, typical parameters of apartments, depend
 distance from the center. Data preprocessing has been carried out. Added new data.
 Histograms, boxplots, scatterplots are constructed.
 
-## Field of activity
+## Fields of activity
 
 * Internet Services
 * Ad platforms
