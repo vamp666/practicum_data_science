@@ -12,7 +12,7 @@ A credit scoring model has been built - a special system that evaluates the abil
 
 ## Field of activity
 
-*Banking / FinTech
-*Startups
-*IT company
-*Services for business [b2b] (outsourcing consulting audit)
+* Banking / FinTech
+* Startups
+* IT company
+* Services for business [b2b] (outsourcing consulting audit)
