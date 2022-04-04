@@ -11,9 +11,26 @@ The share of creditworthy clients has been determined.
 The influence of the marital status and the number of children of the client on the fact of repaying the loan on time is analyzed.
 A credit scoring model has been built - a special system that evaluates the ability of a potential borrower to repay a loan to a bank.
 
-## Field of activity
+## Fields of activity
 
 * Banking / FinTech
 * Startups
 * IT company
 * Services for business [b2b] (outsourcing consulting audit)
+
+## Skills
+
+* data preprocessing
+* Python
+* pandas
+* PyMystem3
+* lemmatization
+* scipy
+* matplotlib
+* Seaborn
+* SciKitLearn
+* numpy
+
+## Tags
+
+data processing, duplicates, gaps, categorization, lemmatization, data analyst, analyst, financial analyst
