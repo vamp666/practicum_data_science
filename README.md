@@ -1,10 +1,11 @@
 # My educational Data Science projects 
 
+
+![certificate(short version)](https://github.com/vamp666/practicum_data_science/blob/main/rdm.jpg)
+
 This repository includes projects that I completed during my training at the Yandex.Practicum.
 
 All of them are .ipynb files.
-
-![Иллюстрация к проекту](https://github.com/vamp666/practicum_data_science/blob/main/rdm.jpg)
 
 | Project Name | Description | Used Libraries |
 | :------------------------------------------------------- | :---------------------: |:---------------------------|
