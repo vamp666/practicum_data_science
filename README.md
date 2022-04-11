@@ -4,6 +4,8 @@ This repository includes projects that I completed during my training at the Yan
 
 All of them are .ipynb files.
 
+![Иллюстрация к проекту](https://github.com/vamp666/practicum_data_science/blob/main/rdm.jpg)
+
 | Project Name | Description | Used Libraries |
 | :------------------------------------------------------- | :---------------------: |:---------------------------|
 | [Borrower reliability assessment](https://github.com/vamp666/practicum_data_science/blob/dd7e0e836f3cd2152188cb2decba8ec395417985/01%20Borrower%20reliability%20assessment/Borrower%20reliability%20assessment.ipynb) | Customer is the credit department of the bank. It is necessary to find out whether the marital status and the number of children of the client affect the fact of repaying the loan on time. | Pandas, data preprocessing |
