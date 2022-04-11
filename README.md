@@ -3,7 +3,7 @@
 
 ![certificate(short version)](https://github.com/vamp666/practicum_data_science/blob/main/rdm.jpg)
 
-This repository includes projects that I completed during my training at the Yandex.Practicum.
+This repository includes projects that I did during my training at the Yandex.Practicum.
 
 All of them are .ipynb files.
 
