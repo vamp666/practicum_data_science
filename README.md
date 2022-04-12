@@ -1,7 +1,7 @@
 # My educational Data Science projects 
 
 
-![certificate(short version)](https://github.com/vamp666/practicum_data_science/blob/main/rdm.jpg)
+![certificate(short version)](https://github.com/vamp666/practicum_data_science/blob/1fb00ecef5dedcec18c4c4af1efe0391d5314003/rdm%20pic.jpg)
 
 This repository includes projects that I did during my training at the Yandex.Practicum.
 
